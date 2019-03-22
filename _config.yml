@@ -1,1 +1,22 @@
-theme: jekyll-theme-leap-day
+# Basic settings
+title: Физкульт-Привет!
+description: Всё о силовой физкультуре.
+google_analytics:
+#remote_theme: jekyll-theme-leap-day
+remote_theme: mattgraham/leapday
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+#  - jekyll-multiple-languages
+
+paginate: 5
+
+#languages:          ['ru', 'en']
+#language_default:   'ru'
+
+excerpt_separator: <!--more-->
