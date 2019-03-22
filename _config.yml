@@ -4,7 +4,9 @@ description: Всё о силовой физкультуре.
 google_analytics:
 #remote_theme: jekyll-theme-leap-day
 remote_theme: mattgraham/leapday
+url: https://fizkult-privet.github.io/
 baseurl: ""
+
 
 # Build settings
 markdown: kramdown
